@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "mongodb": "^5.7.0"
+  },
+  "name": "updatedatafromjs",
+  "version": "1.0.0",
+  "main": "updateDatainmongo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
